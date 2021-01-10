@@ -1,0 +1,69 @@
+
+.newage {
+    background-image:url(img/bg-pattern.png),linear-gradient(to right, rgb(218,36,49), rgba(122,67,151));
+    background-repeat: repeat;
+}
+
+.navbar-brand {
+    color: yellow;
+}
+.navbar-brand :hover {
+    color: white;
+}
+
+.menu {
+font-family:Lato, Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-family: Catamaran, Helvetica, Arial, sans-serif;
+}
+.nav-link {
+    color: tan;
+}
+.nav-link  :hover{
+    color: white;
+}
+
+.btn-outline-light {
+    border-radius: 40px;
+    font-size: small;
+}
+
+.btn-outline-light :hover {
+   background-color: yellow;
+}
+.new_age {
+    color: white;
+}
+
+.demo {
+height: 50%;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.gogleplay {
+    width: 135px;
+    height: 40px;
+}
+
+.unlimited {
+    background-color: white;
+}
+
+.stop {
+    background-image: url(img/bg-cta.jpg);
+    background-position: center;
+}
+
+.waiting {
+    color: white;
+    font-size: 5em;
+}
+
+.friend {
+    background-color: yellow;
+}
